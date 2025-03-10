@@ -1,4 +1,4 @@
-# Presentacion dual 2DAW Viewnext
+# Presentación dual 2DAW Viewnext
 
 Este repositorio contiene la presentación del periodo de dual del segundo año del ciclo formativo de DAW en la empresa Viewnext.
 
@@ -20,9 +20,9 @@ Este repositorio contiene la presentación del periodo de dual del segundo año 
 
  <br> <br>
 
-[![](/img/viewnext.png)](https://www.viewnext.com/)
+[![viewnext](/img/viewnext.png)](https://www.viewnext.com/)
 
  <br> <br>
 
-[![](/img/Alan%20Turing.png)](https://fpalanturing.es/)
+[![CPIFP Alan Turing](/img/Alan%20Turing.png)](https://fpalanturing.es/)
 
