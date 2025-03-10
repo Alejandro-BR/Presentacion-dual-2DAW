@@ -1,6 +1,6 @@
-# Presentación dual 2DAW Viewnext
+# PRESENTACIÓN 2º DE DUAL: VIEWNEXT (2024/2025)
 
-Este repositorio contiene la presentación del periodo de dual del segundo año del ciclo formativo de DAW en la empresa Viewnext.
+Este repositorio contiene la presentación elaborada sobre mi experiencia durante el segundo período de prácticas duales en la empresa Viewnext, correspondiente al segundo año del ciclo formativo de DAW.
 
 <br> 
 
